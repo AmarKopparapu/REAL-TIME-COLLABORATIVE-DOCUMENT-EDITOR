@@ -1,5 +1,17 @@
 # REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
 
+COMPANY NAME : CODTECH IT SOLUTIONS
+
+NAME : SAI AMAR DURGESH KOPPARAPU
+
+INTERN ID : CT08ULA
+
+DOMAIN NAME : WEB DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
 *DESCRIPTION* : 
 
 During my internship at CodTech, I successfully developed a **Real-Time Collaborative Document Editor**, an innovative tool designed to enable seamless and dynamic collaboration for users. This project was driven by the goal of enhancing productivity and teamwork, facilitating users to edit documents simultaneously with real-time synchronization and communication.
